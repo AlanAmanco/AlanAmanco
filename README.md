@@ -2,7 +2,7 @@
 
 ## Seja Bem Vindo ao meu GitHub 👋
 
-- 😄 Atualmente sou Tech Lead no IPOG - Instituto de Pós-Graduação, trabalhando no projeto SIGEP - Sistema Integrado de Gestão Pública. Desenvolvendo e mantendo sistemas para uma Gestão Pública mais eficiente.
+- 😄 Atualmente sou programador no IPOG - Instituto de Pós-Graduação.
 
 - 🚀 Aqui você encontrará projetos desenvolvidos com as tecnologias que utilizo atualmente.
 
